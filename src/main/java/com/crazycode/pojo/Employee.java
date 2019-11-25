@@ -3,6 +3,6 @@ package com.crazycode.pojo;
 import lombok.Data;
 
 @Data
-public class Teacher {
+public class Employee {
     private String name;
 }
